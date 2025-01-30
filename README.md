@@ -6,7 +6,7 @@ It provides a round foot to be mounted at the bottom of a square leg to protect 
 
 Relies on BOSL2 library.
 
-Models uploaded at: 
+Models uploaded at: https://www.printables.com/model/1170294
 
 Source code maintained at: https://github.com/geru/3d-scad-roundFootSquareLeg
 
